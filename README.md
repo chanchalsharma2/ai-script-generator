@@ -1,3 +1,4 @@
+🚀 **Live Demo:** [AI Video Creator Studio](https://ai-script-generator-ca2cgamefkqrkp4eropphj.streamlit.app)
 # 🎬 AI Script Generator & Video Creator Studio
 
 An end-to-end AI Video Creation Studio built with **Streamlit** and **Python** that generates scene-by-scene scripts, voiceover narration, automated AI image visuals, and SEO metadata.
